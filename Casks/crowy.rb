@@ -1,8 +1,8 @@
 cask "crowy" do
-  version "0.1.0-alpha.3"
-  sha256  "51f125495345efaef001c4151efab5a1814f162962a0268245c3d87b35d6cd53"
+  version "0.1.0-alpha.4"
+  sha256  "8d86efdccb358a6528558729bc014bf414446bbffe122ddf487bb35a7a8a7efe"
 
-  url "https://github.com/alexandretrichot/crowy/releases/download/v0.1.0-alpha.3/Crowy-0.1.0-alpha.3.zip"
+  url "https://github.com/alexandretrichot/crowy/releases/download/v0.1.0-alpha.4/Crowy-0.1.0-alpha.4.zip"
   name "Crowy"
   desc "Clipboard manager for macOS"
   homepage "https://github.com/alexandretrichot/crowy"
